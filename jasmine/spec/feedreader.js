@@ -25,7 +25,7 @@ $(function() {
          it('have URLs', function(){
            var urls=true;
            if (allFeeds.length === 0){
-             names=false;
+             urls=false;
            }else {
              for (var i=0; i < allFeeds.length; i++){
                if (!allFeeds[i].url || allFeeds[i].url===""){
@@ -84,7 +84,7 @@ $(function() {
          });
 
          it("have at least one entry", function(done){
-           expect($(".entry").length).toBeGreaterThan(0); //get all entries and check length
+           expect($(".feed .entry").length).toBeGreaterThan(0); //get all entries and check length
            done();
          });
 
