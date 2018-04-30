@@ -1,5 +1,5 @@
 # Feed Reader Testing
-This project tests Udacity's Feed Reader application using [Jasmine](https://jasmine.github.io/) JavaScript framework.
+This project tests Udacity's Feed Reader application using Jasmine JavaScript framework.
 
 ## How to run this test
 To run this test suite on your PC do the following:
@@ -13,4 +13,4 @@ To add new tests to the application do the following:
 1. Open 'jasmine' folder
 2. Open 'spec' folder
 3. Use your preferred text editor to modify 'feedreader.js'
-4. Add your test to the 'feedreader.js' file using the [Jasmine framework](https://jasmine.github.io/) 
+4. Add your test to the 'feedreader.js' file using the [Jasmine framework](https://jasmine.github.io/)
