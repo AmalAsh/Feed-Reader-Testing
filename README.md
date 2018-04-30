@@ -6,7 +6,7 @@ To run this test suite on your PC do the following:
 1. Download or clone this Git repository
 2. Open the project folder
 3. Open the 'index.html' file using your preferred browser
-4. The tests and their will appear at the bottom of the page with an indication of them passing or failing
+4. The tests will appear at the bottom of the page with an indication of them passing or failing
 
 ## How to add new tests
 To add new tests to the application do the following:
